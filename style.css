@@ -1,0 +1,34 @@
+#navBar{
+    background-color: #0f1111;
+    height: 60px;
+}
+#amazon{
+    color: #f08804;
+    font-size: 25px;
+    text-decoration: none;
+}
+#account{
+    margin-left: 200px;
+    color: white;
+    text-decoration: none;
+}
+
+
+#MyCart{
+    margin-left: 200px;
+    color: white;
+    text-decoration: none;
+}
+
+#ContactUs{
+    margin-left: 200px;
+    color: white;
+    text-decoration: none;
+
+}
+#input{
+    margin-left: 100px;
+}
+#search{
+    background-color: #f08804;
+}
